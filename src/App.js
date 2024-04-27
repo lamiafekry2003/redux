@@ -5,7 +5,7 @@ import Cateorgy from './Component/Cateorgy/Cateorgy';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Home/>
       <About/>
       <Cateorgy/>
